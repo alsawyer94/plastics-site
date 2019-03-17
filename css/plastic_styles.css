@@ -5,3 +5,14 @@ h1 {
 p {
   font-weight: bold;
 }
+
+body{
+    background-image: url('https://media.giphy.com/media/3o751ZdiWsfmpwOVby/giphy.gif');
+    background-size: cover;
+
+
+
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
